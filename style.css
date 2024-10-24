@@ -66,6 +66,8 @@ section .container {
     width: 300px;
     height: 550px;
     margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
 }
 
 .games img {
@@ -83,6 +85,7 @@ section .container {
     padding: 8px;
     display: inline-block;
     text-decoration: none;
+    text-align: center;
     font-weight: bold;
     margin-top: auto; /* Empurra o link para o final da div */
 }

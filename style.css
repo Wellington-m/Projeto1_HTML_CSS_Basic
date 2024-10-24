@@ -35,6 +35,10 @@ header ul li a {
     color: #f8c400;
 }
 
+h2 {
+    font-size: 35px;
+}
+
 .container {
     max-width: 1280px;
     width: 100%;
@@ -60,6 +64,16 @@ section .container {
 .banner {
     height: 480px;
     margin-right: 32px;
+}
+
+#general_games .container ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#general_games .container {
+    flex-direction: column;
 }
 
 .games {
@@ -88,8 +102,4 @@ section .container {
     text-align: center;
     font-weight: bold;
     margin-top: auto; /* Empurra o link para o final da div */
-}
-
-#general_games .container {
-    flex-wrap: wrap;
 }

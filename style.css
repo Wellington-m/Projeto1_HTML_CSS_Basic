@@ -177,3 +177,9 @@ input:focus,
 textarea:focus {
     outline-color: #00071a;
 }
+
+footer {
+    background-color: #00071a;
+    color: #f8c400;
+    padding: 16px;
+}

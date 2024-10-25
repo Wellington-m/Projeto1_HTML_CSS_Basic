@@ -103,3 +103,31 @@ section .container {
     font-weight: bold;
     margin-top: auto; /* Empurra o link para o final da div */
 }
+
+#images .container {
+    flex-direction: column;
+}
+
+/* Estilos da galeria */
+.galery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 25px;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+/* Estilo das imagens */
+.galery img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+/* Efeito de zoom ao passar o mouse */
+.galery img:hover {
+    transform: scale(1.1);
+}

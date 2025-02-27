@@ -19,7 +19,7 @@ Bem-vindo ao **Hyrule Clássico**, um site criado como parte de um projeto do cu
    ```
 2. Acesse o diretório do projeto:
    ```sh
-   cd hyrule-classico
+   cd Projeto1_HTML_CSS_Basic
    ```
 3. Abra o arquivo `index.html` no navegador ou utilize uma ferramenta como Live Server para melhor experiência.
 

@@ -5,7 +5,6 @@ Bem-vindo ao **Hyrule Clássico**, um site criado como parte de um projeto do cu
 ## 🔹 Tecnologias Utilizadas
 - HTML
 - CSS
-- JavaScript
 - [Vercel](https://vercel.com/) para hospedagem
 
 ## 🔹 Funcionalidades

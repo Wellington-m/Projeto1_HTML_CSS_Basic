@@ -15,7 +15,7 @@ Bem-vindo ao **Hyrule Clássico**, um site criado como parte de um projeto do cu
 ## 🔹 Como Executar o Projeto
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/hyrule-classico.git
+   git clone https://github.com/Wellington-m/Projeto1_HTML_CSS_Basic
    ```
 2. Acesse o diretório do projeto:
    ```sh
